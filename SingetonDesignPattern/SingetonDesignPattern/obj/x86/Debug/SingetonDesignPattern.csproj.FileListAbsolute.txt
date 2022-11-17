@@ -1,0 +1,9 @@
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\SingetonDesignPattern.Form1.resources
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\SingetonDesignPattern.Properties.Resources.resources
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\bin\Debug\SingetonDesignPattern.exe
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\bin\Debug\SingetonDesignPattern.pdb
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\SingetonDesignPattern.exe
+c:\users\kanchan\documents\visual studio 2010\Projects\SingetonDesignPattern\SingetonDesignPattern\obj\x86\Debug\SingetonDesignPattern.pdb
